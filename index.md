@@ -3,7 +3,8 @@ University of California, Los Angeles (UCLA) Life Sciences: Los Angeles, CA, US
 2011 | PhD (Ecology and Evolutionary Biology)
 
 University of California, Santa Cruz (UCSC) Santa Cruz, CA, US
-2001 | Ba (Biology)
+2001 | BA (Biology)
+
 
 
 
