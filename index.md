@@ -5,6 +5,10 @@ University of California, Los Angeles (UCLA) Life Sciences: Los Angeles, CA, USA
 University of California, Santa Cruz (UCSC) Santa Cruz, CA, USA                                                      
 2001 | BA (Biology)
 
+## Employment
+Zoological Society of San Diego: San Diego, California, USA
+2012 to 2019 | Researcher  (Recovery Ecology)
+
 
 
 
