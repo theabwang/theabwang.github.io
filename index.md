@@ -1,10 +1,8 @@
 ## Education 
-University of California, Los Angeles (UCLA) Life Sciences: Los Angeles, CA, US
-
+University of California, Los Angeles (UCLA) Life Sciences: Los Angeles, CA, USA                                                         
 2011 | PhD (Ecology and Evolutionary Biology)
 
-University of California, Santa Cruz (UCSC) Santa Cruz, CA, US
-
+University of California, Santa Cruz (UCSC) Santa Cruz, CA, USA                                                      
 2001 | BA (Biology)
 
 
