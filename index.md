@@ -4,7 +4,7 @@ University of California, Los Angeles (UCLA) Life Sciences: Los Angeles, Califor
 2011 | PhD ([Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/))
 
 University of California, Santa Cruz (UCSC) Santa Cruz, California, USA                                                      
-2001 | BA (Biology)
+2001 | BA ([Biology](https://admissions.sa.ucsc.edu/majors/biology))
 
 ## Employment
 Zoological Society of San Diego: San Diego, California, USA                                           
