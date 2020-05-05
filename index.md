@@ -1,4 +1,4 @@
-![Image](bio.jpg)
+![Image](bio-photo.jpg)
 ## Education 
 University of California, Los Angeles (UCLA) Life Sciences: Los Angeles, California, USA                                                 
 2011 | PhD (Ecology and Evolutionary Biology)
