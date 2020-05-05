@@ -26,4 +26,6 @@ Enzmann, BL, Kapheim, KM, **Wang, TB** and P Nonacs, (2011). Giving them what th
 
 **Wang, TB**, Nonacs, P and DT Blumstein, (2009). Applying skew indices to measure the costs and benefits of group living. In: Reproductive Skew in Vertebrates: Proximate and Ultimate Causes. (Ed. By R Hager and CB Jones), Cambridge University Press
 
+## My Name
+My name is Thea Wang but I publish under Thea B Wang to distinguish myself from the other 2000+ published TWangs
 
