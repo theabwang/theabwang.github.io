@@ -8,7 +8,7 @@ University of California, Santa Cruz (UCSC) Santa Cruz, California, USA
 
 ## Employment
 Zoological Society of San Diego: San Diego, California, USA                                           
-Institute for Conservation Research, Recovery Ecology [Recovery Ecology](https://institute.sandiegozoo.org/recovery-ecology) 
+Institute for Conservation Research, [Recovery Ecology](https://institute.sandiegozoo.org/recovery-ecology)                           
 2012 to 2019 | Postdoctoral Researcher & Researcher 
 
 University of California, Los Angeles (UCLA), Los Angeles, California, USA                      
