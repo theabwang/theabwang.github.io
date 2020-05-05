@@ -15,8 +15,7 @@ University of California, Los Angeles (UCLA), Los Angeles, California, USA
 2011 to 2014 | Lecturer
 
 ## Publications 
-Shier, DM, Bird, AK and **TB Wang**, (2020). Effects of artificial light at night on the foraging behavior of an endangered nocturnal mammal. Environmental Pollution. Volume 263, Part A, 114566
-[Link](https://authors.elsevier.com/c/1axQpzLNSS3Eh) 
+Shier, DM, Bird, AK and **TB Wang**, (2020). [Effects of artificial light at night on the foraging behavior of an endangered nocturnal mammal.](https://www.sciencedirect.com/science/article/pii/S0269749119366059) Environmental Pollution. Volume 263, Part A, 114566
 
 Chock, RY, McCullough Hennessy, S, **Wang, TB**, Gray, E and DM Shier, (2020). A multi-model approach to guide habitat conservation and restoration for the endangered San Bernardino kangaroo rat. Global Ecology and Conservation. Volume 21, e00881
 
