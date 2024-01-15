@@ -7,14 +7,24 @@ University of California, Santa Cruz (UCSC) Santa Cruz, California, USA
 2001 | BA ([Biology](https://admissions.sa.ucsc.edu/majors/biology))
 
 ## Employment
-Zoological Society of San Diego: San Diego, California, USA                                           
-Institute for Conservation Research, [Recovery Ecology](https://institute.sandiegozoo.org/recovery-ecology)                           
-2012 to 2019 | Postdoctoral Researcher & Researcher 
+Institute for Conservation Research and Education ([ICRE](https://www.icreglobal.org)), Fullerton, California, USA             
+2022 to Present | Rare Species Program Director
+
+[Endemic Environmental Services](https://www.endemicenvironmental.net/), Fullerton, California, USA                           
+2021 to Present | Biologist & Rare Species Program Director
+                                        
+[Harris and Associates](https://www.weareharris.com/), San Diego, California, USA                           
+2021 to Present | Biologist 
+
+[San Diego Zoo Wildlife Alliance](https://sandiegozoowildlifealliance.org), San Diego, California, USA    
+2012 to 2019 | Postdoctoral Researcher & Researcher  
 
 University of California, Los Angeles (UCLA), Los Angeles, California, USA                      
 2011 to 2014 | Lecturer
 
 ## Publications 
+Hendricks, S, Navarro, AY, **Wang, T**, Wilder, A, Ryder, OA and DM Shier, (2020). Patterns of genetic partitioning and gene flow in the endangered San Bernardino kangaroo rat (Dipodomys merriami parvus) and implications for conservation management. Conservation Genetics 21, 819–833 
+
 Shier, DM, Bird, AK and **TB Wang**, (2020). [Effects of artificial light at night on the foraging behavior of an endangered nocturnal mammal.](https://www.sciencedirect.com/science/article/pii/S0269749119366059) Environmental Pollution. Volume 263, Part A, 114566
 
 Chock, RY, McCullough Hennessy, S, **Wang, TB**, Gray, E and DM Shier, (2020). A multi-model approach to guide habitat conservation and restoration for the endangered San Bernardino kangaroo rat. Global Ecology and Conservation. Volume 21, e00881
